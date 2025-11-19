@@ -2,9 +2,9 @@
 
 This repository contains [Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash) main level macros \
 Recorded using [Eclipse Menu](https://eclipse.menu)
+**3 coins⭐️**
 
-- **3 coins** ⭐️
-- **Least clicks** 🖱
+- ✅**Stereo Madness** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **152** clicks)
 
 ## Playing macros
 - Install [**Geode**](https://geode-sdk.org) modding framework and [**Eclipse Menu**](https://eclipse.menu) as written on it's official website
