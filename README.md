@@ -8,6 +8,7 @@ Recorded using [Eclipse Menu](https://eclipse.menu)
 - ✅**Back On Track** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **198** clicks)
 - ✅**Polargeist** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **288** clicks)
 - ✅**Dry Out** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **238** clicks)
+- ✅**Base After Base** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **219** clicks)
 
 ## Playing macros
 - Install [**Geode**](https://geode-sdk.org) modding framework and [**Eclipse Menu**](https://eclipse.menu) as written on it's official website
