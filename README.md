@@ -2,11 +2,12 @@
 
 This repository contains [Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash) main level macros \
 Recorded using [Eclipse Menu](https://eclipse.menu)
-**3 coins⭐️**
+**3 coins**⭐️
 
 - ✅**Stereo Madness** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **152** clicks)
 - ✅**Back On Track** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **198** clicks)
 - ✅**Polargeist** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **288** clicks)
+- ✅**Dry Out** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **238** clicks)
 
 ## Playing macros
 - Install [**Geode**](https://geode-sdk.org) modding framework and [**Eclipse Menu**](https://eclipse.menu) as written on it's official website
