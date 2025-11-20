@@ -13,6 +13,7 @@ Recorded using [Eclipse Menu](https://eclipse.menu)
 - ✅**Jumper** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **300** clicks)
 - ✅**Time Machine** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **295** clicks)
 - ✅**Cycles** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **261** clicks)
+- ✅**xStep** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **350** clicks)
 
 ## Playing macros
 - Install [**Geode**](https://geode-sdk.org) modding framework and [**Eclipse Menu**](https://eclipse.menu) as written on it's official website
