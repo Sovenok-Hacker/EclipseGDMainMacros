@@ -9,6 +9,7 @@ Recorded using [Eclipse Menu](https://eclipse.menu)
 - ✅**Polargeist** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **288** clicks)
 - ✅**Dry Out** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **238** clicks)
 - ✅**Base After Base** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **219** clicks)
+- ✅**Cant Let Go** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **252** clicks)
 
 ## Playing macros
 - Install [**Geode**](https://geode-sdk.org) modding framework and [**Eclipse Menu**](https://eclipse.menu) as written on it's official website
