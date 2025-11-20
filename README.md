@@ -12,6 +12,7 @@ Recorded using [Eclipse Menu](https://eclipse.menu)
 - ✅**Cant Let Go** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **252** clicks)
 - ✅**Jumper** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **300** clicks)
 - ✅**Time Machine** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **295** clicks)
+- ✅**Cycles** ([@Sovenok-Hacker](https://github.com/Sovenok-Hacker), **261** clicks)
 
 ## Playing macros
 - Install [**Geode**](https://geode-sdk.org) modding framework and [**Eclipse Menu**](https://eclipse.menu) as written on it's official website
